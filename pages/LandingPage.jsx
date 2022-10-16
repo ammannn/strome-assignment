@@ -390,7 +390,7 @@ const RightContainer = styled.div`
   height: 100%;
   display: flex;
   justify-content: center;
-  align-item: cebter;
+  align-items: center;
   position: relative;
 
   @media only screen and (max-width: 320px) {
