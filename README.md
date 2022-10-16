@@ -16,13 +16,13 @@ yarn dev
 ```
 Screenshots
 
-![alt text](https://github.com/ammannn/strome-game/blob/main/screenshots/Login.png)
-![alt text](https://github.com/ammannn/strome-game/blob/main/screenshots/Dashboard.png)
-![alt text](https://github.com/ammannn/strome-game/blob/main/screenshots/LoadingScreen.png)
+![alt text](https://github.com/ammannn/strome-assignment/blob/main/screenshots/Login.png)
+![alt text](https://github.com/ammannn/strome-assignment/blob/main/screenshots/Dashboard.png)
+![alt text](https://github.com/ammannn/strome-assignment/blob/main/screenshots/LoadingScreen.png)
 
 Responsive screens
 
-![alt text](https://github.com/ammannn/strome-game/blob/main/screenshots/LoginMobile.png)
-![alt text](https://github.com/ammannn/strome-game/blob/main/screenshots/DasboardMobile.png)
+![alt text](https://github.com/ammannn/strome-assignment/blob/main/screenshots/LoginMobile.png)
+![alt text](https://github.com/ammannn/strome-assignment/blob/main/screenshots/DasboardMobile.png)
 
 
